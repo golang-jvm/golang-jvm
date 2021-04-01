@@ -2,6 +2,8 @@
 
 ![logo](logo.png)
 
+![don't tell me you're too blind to see](doc/rickroll.gif)
+
 ## About
 
 go-jvm is an implementation of the [Golang language](http://www.Golang-lang.org)
